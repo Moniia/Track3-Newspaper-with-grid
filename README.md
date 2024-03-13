@@ -5,7 +5,6 @@
 
 ![newspaper](https://github.com/Moniia/Track3-Newspaper-with-grid/assets/155805252/4b9c8d72-fa0e-4a3f-acb8-dc4c40e5e123)
 
-<br></br>
 
 🔗 [Demo Project](https://moniia.github.io/Track3-Newspaper-with-grid/)
 
