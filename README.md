@@ -7,7 +7,7 @@
 
 <br></br>
 
-🔗 [Demo Project](https://moniia.github.io/Trick1-cube/)
+🔗 [Demo Project](https://moniia.github.io/Track3-Newspaper-with-grid/)
 
 👩🏻‍💻 Developed by Mona Aminian
 
