@@ -1,5 +1,5 @@
 # Trick3-Newspaper-with-grid
- *I wrote this newspaper by Grid*
+ **I wrote this newspaper by Grid**
 
 <br></br>
 
