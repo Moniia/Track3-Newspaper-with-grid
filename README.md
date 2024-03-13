@@ -1,10 +1,9 @@
 # Trick3-Newspaper-with-grid
- I wrote this newspaper with Grid
+ *I wrote this newspaper by Grid*
 
 <br></br>
 
 ![newspaper](https://github.com/Moniia/Track3-Newspaper-with-grid/assets/155805252/4b9c8d72-fa0e-4a3f-acb8-dc4c40e5e123)
-
 
 <br></br>
 
